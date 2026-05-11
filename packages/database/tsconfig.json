@@ -1,0 +1,11 @@
+{
+  "extends": "@xox/typescript-config/base.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": ".",
+    "module": "nodenext",
+    "moduleResolution": "nodenext"
+  },
+  "include": ["index.ts", "prisma.config.ts"],
+  "exclude": ["node_modules", "dist"]
+}

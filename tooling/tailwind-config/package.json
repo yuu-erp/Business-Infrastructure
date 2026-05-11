@@ -1,0 +1,10 @@
+{
+  "name": "@xox/tailwind-config",
+  "version": "0.0.0",
+  "private": true,
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "tailwindcss-animate": "^1.0.7",
+    "tailwindcss": "latest"
+  }
+}
