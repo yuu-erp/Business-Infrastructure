@@ -13,16 +13,20 @@
     "prepare": "husky"
   },
   "devDependencies": {
+    "composio-core": "^0.5.39",
     "eslint": "^8.57.1",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-prettier": "^5.5.5",
     "eslint-plugin-unused-imports": "^3.1.0",
     "husky": "^9.0.11",
+    "mastra": "^1.8.1",
     "prettier": "^3.2.5",
     "prisma": "7",
+    "tsx": "^4.21.0",
     "turbo": "latest",
-    "typescript": "^6.0.3"
+    "typescript": "^6.0.3",
+    "zx": "^8.8.5"
   },
   "engines": {
     "node": ">=18.0.0"
