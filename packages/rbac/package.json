@@ -3,5 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "main": "./index.ts",
-  "types": "./index.ts"
+  "types": "./index.ts",
+  "dependencies": {
+    "@casl/ability": "^6.8.1",
+    "@casl/prisma": "^1.6.2"
+  },
+  "devDependencies": {
+    "@xox/typescript-config": "workspace:^"
+  }
 }
